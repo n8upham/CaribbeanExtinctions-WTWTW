@@ -1,10 +1,10 @@
-# CaribbeanExtinctions-WTWTW ("Where the wild things were")
+# CaribbeanExtinctions-WTWTW
+## "Where the wild things were: intrinsic and extrinsic extinction predictors in the world’s most depleted mammal fauna"
+### authors: Samuel T. Turvey, Clare Duncan, Nathan S. Upham, Xavier Harrison, Liliana M. Dávalos)
 
 ### README
 #### Files for joining the VertLife mammal tree w/ Caribbean taxa.
-#### code: Nathan S. Upham (author line: Samuel T. Turvey, Clare Duncan, Nathan S. Upham, Xavier Harrison, Liliana M. Dávalos)
-
-### FILES
+#### code: Nathan S. Upham 
 
 _pruningCode_MamPhy-to-CaribbeanTaxa.R_
 - Full code for the pruning of the Mammalia trees, addition of unsampled Caribbean taxa, and resolution of polytomies, with visualization steps for checking the work along the way.
