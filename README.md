@@ -8,7 +8,7 @@
 
 - __data__: Contains the final datasets (species by island codings with covariates, final pruned phylogenies used for comparative analyses).
 
-- __mamPhy_pruningCode_final__: Raw tree files and R code for pruning the mammal tree to Caribbean taxa, adding unsampled taxa, and resolving polytomies to obtain bifurcating trees.
+- __mamPhy_pruningCode__: Raw tree files and R code for pruning the mammal tree to Caribbean taxa, adding unsampled taxa, and resolving polytomies to obtain bifurcating trees.
 
 - __binomial__: R code to reproduce the binomial results.
 
