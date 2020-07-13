@@ -1,6 +1,6 @@
 # CaribbeanExtinctions-WTWTW
 ## "Where the wild things were: intrinsic and extrinsic extinction predictors in the world’s most depleted mammal fauna"
-### authors: Samuel T. Turvey, Clare Duncan, Nathan S. Upham, Xavier Harrison, Liliana M. Dávalos)
+### authors: Samuel T. Turvey, Clare Duncan, Nathan S. Upham, Xavier Harrison, Liliana M. Dávalos
 
 ### README
 

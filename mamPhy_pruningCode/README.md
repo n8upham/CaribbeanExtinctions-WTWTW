@@ -1,5 +1,5 @@
 #### Files for joining the VertLife mammal tree w/ Caribbean taxa.
-#### code: Nathan S. Upham 
+#### code: Nathan S. Upham nathan.upham@asu.edu
 
 _pruningCode_MamPhy-to-CaribbeanTaxa.R_
 - Full code for the pruning of the Mammalia trees, addition of unsampled Caribbean taxa, and resolution of polytomies, with visualization steps for checking the work along the way.
