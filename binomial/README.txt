@@ -14,5 +14,7 @@ R code to reproduce the binomial results. Address all queries to liliana.davalos
 
 5) summarize_get_mass_v3.r extracts imputed mass values for Hexolobodontinae_x.
 
+6) To include mongoose as a predictor, use mongoose.r
+
 
 
